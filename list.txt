@@ -1,2 +1,4 @@
 vless://cf792777-9660-4dd8-a807-b6df7bcbe400@194.87.45.245:43197?security=reality&encryption=none&pbk=FHhNZ4LtlY3V3zJNdMr_2EJ8RtbWJmR78noxUooLrRM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=aab0c0315e50e139#rasoul3
 
+
+vless://66c60e73-2ac4-4b02-9357-56ce3527a965@31.129.22.32:55537?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=2jHzWn-VlZDNPOrnV3bNn2iGEZYYXr-CXM7qoEGACVQ&sid=167f5915f8599923&type=tcp&headerType=none#Rasoulp%20%C2%A7%200

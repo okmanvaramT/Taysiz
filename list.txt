@@ -8,3 +8,5 @@ vless://f8ea4c7b-2349-48f2-93e2-4990c9355866@85.208.139.8:12521?security=reality
 vless://58e635b0-5010-43e7-8706-f1b229f6d377@62.60.234.166:48876?security=reality&encryption=none&pbk=zHpCyHxlWTG3Ci9vBVAJTTRk7fDVMCXtA8UbPh8crFo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=b5f03fee06b2c42b#rasoul5
 
 vless://56ffd1fe-b233-4031-a821-ee3527410719@195.133.88.140:26431?security=reality&encryption=none&pbk=NAiOfN0JPFlvTI5t5yvZx5wyNs1XweUnMlSEu5WzWTs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=3a34792463a9bcfe#rasoul6
+
+vless://bbec7fa0-45fe-43e0-bce4-53c04be6357c@212.192.14.250:45103?security=reality&encryption=none&pbk=pWC0sB8sFRcCNB8pPR1I4s3rrnA5yuL0DjvFnIkQuxo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=34655a2125d11cc2#raaoul7

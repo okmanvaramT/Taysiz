@@ -10,3 +10,5 @@ vless://58e635b0-5010-43e7-8706-f1b229f6d377@62.60.234.166:48876?security=realit
 vless://56ffd1fe-b233-4031-a821-ee3527410719@195.133.88.140:26431?security=reality&encryption=none&pbk=NAiOfN0JPFlvTI5t5yvZx5wyNs1XweUnMlSEu5WzWTs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=3a34792463a9bcfe#rasoul6
 
 vless://bbec7fa0-45fe-43e0-bce4-53c04be6357c@212.192.14.250:45103?security=reality&encryption=none&pbk=pWC0sB8sFRcCNB8pPR1I4s3rrnA5yuL0DjvFnIkQuxo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=34655a2125d11cc2#raaoul7
+
+vless://e51ce6f7-8b30-4092-98f6-6a38d075e061@145.249.109.122:57520?security=reality&encryption=none&pbk=Cdz1K7TdcvZOqo_p-VOSEmD-pKIJhm4E41jhUZiZtQs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=5866cfebc4489d12#rasoul8
